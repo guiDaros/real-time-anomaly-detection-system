@@ -258,8 +258,6 @@ Future:
 anomaly-detection-system/
 │
 ├── streaming/
-│   ├── spark_stream.py
-│   └── producer.py
 │
 ├── docker/
 │
@@ -330,8 +328,8 @@ Ports:
 Credentials:
 
 ```text
-user: admin
-password: password123
+user: xxxxxx
+password: xxxxxx
 ```
 
 ---
